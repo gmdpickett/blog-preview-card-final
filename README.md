@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Solution](https://your-solution-url.com](https://www.frontendmentor.io/solutions/blog-preview-card---html-css-JE3b_tMhOv)
-- Live Site URL: [View Live Site](https://your-live-site-url.com](https://mikepickett.dev/blog-preview-card-final/)
+- [Frontend Mentor Link](https://www.frontendmentor.io/solutions/blog-preview-card---html-css-JE3b_tMhOv)
+- [MikePickett.dev Link](https://mikepickett.dev/blog-preview-card-final/)
 
 ## My process
 
